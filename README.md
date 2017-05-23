@@ -1,7 +1,7 @@
 ### Descripción
 Esta libreria provee una manera sencilla de realizar diversas validaciones sobre atributos, y generar un listado de mensajes de validación a partir del resultado de las mismas.
 ### Instalación
-Para usar esta libreria primero se la debe clonar, luego ejecutar el comando mvn install para agregarla en tu repositorio local, finalmente se debe agregar la dependencia en tu pom.xml .
+Para usar esta libreria basta con agregar la dependencia en tu pom.xml .
 ```sh
  <dependency>
     <groupId>com.github.angelowolf</groupId>
